@@ -12,4 +12,8 @@
 10. RARR: Researching and Revising What Language Models Say, Using Language Models
 11. FELM: Benchmarking Factuality Evaluation of Large Language Models
 12. Improving Model Factuality with Fine-grained Critique-based Evaluator
+13. Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification
+14. RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems
+15. FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation
+16. 
 
