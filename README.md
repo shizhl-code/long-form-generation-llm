@@ -20,3 +20,5 @@
 # Dataset resource
 1. Looking beyond the surface: A challenge set for reading comprehension over multiple sentences
 2. LONG2RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recal (based on ELI5)
+3. L-Eval: Instituting Standardized Evaluation for Long Context Language Models
+4. MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents
