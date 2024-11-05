@@ -19,4 +19,4 @@
 
 # Dataset resource
 1. Looking beyond the surface: A challenge set for reading comprehension over multiple sentences
-2. 
+2. LONG2RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recal (based on ELI5)
