@@ -1,5 +1,6 @@
 # long-form-generation-llm
 
+## Factuality
 1. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation
 2. Language Models Hallucinate, but May Excel at Fact Verification
 3. RAGAS: Automated Evaluation of Retrieval Augmented Generation (sentence-level generation)
@@ -18,8 +19,13 @@
 16. 
 
 # Dataset resource
+## Long-form QA dataset (question, long answer)
 1. Looking beyond the surface: A challenge set for reading comprehension over multiple sentences
 2. LONG2RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recal (based on ELI5)
 3. L-Eval: Instituting Standardized Evaluation for Long Context Language Models
 4. MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents
 5. AQuaMuSe: Automatically Generating Datasets for Query-Based Multi-Document Summarization
+   
+## NLI dataset (claim, evidence)
+1. WICE: Real-World Entailment for Claims in Wikipedia
+2. 
