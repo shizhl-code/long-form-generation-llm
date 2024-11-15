@@ -16,7 +16,7 @@
 13. Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification
 14. RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems
 15. FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation
-16. 
+16. FactAlign: Long-form Factuality Alignment of Large Language Models
 
 # Dataset resource
 ## Long-form QA dataset (question, long answer)
