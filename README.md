@@ -17,6 +17,9 @@
 14. RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems
 15. FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation
 16. FactAlign: Long-form Factuality Alignment of Large Language Models
+17. Counterfactual Generation from Language Models
+18. LongReward: Improving Long-context Large Language Models with AI Feedback
+19. MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents
 
 # Dataset resource
 ## Long-form QA dataset (question, long answer)
