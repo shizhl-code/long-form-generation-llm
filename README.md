@@ -28,6 +28,7 @@
 3. L-Eval: Instituting Standardized Evaluation for Long Context Language Models
 4. MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents
 5. AQuaMuSe: Automatically Generating Datasets for Query-Based Multi-Document Summarization
+6. ExpertQA: Expert-Curated Questions and Attributed Answers
    
 ## NLI dataset (claim, evidence)
 1. WICE: Real-World Entailment for Claims in Wikipedia
